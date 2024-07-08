@@ -20,7 +20,7 @@ int main() {
     
     int n = sizeof(arr)/sizeof(arr[0]); // Number of elements in an array
     
-    int sizeofint = size / n;   //size of an array arr(size) / number of elements in array(n)
+    int sizeofint = size / n;   //size of an array array(size) / number of elements in array(n)
     printf("The size of int datatype is %d btyes",sizeofint);
 
 
